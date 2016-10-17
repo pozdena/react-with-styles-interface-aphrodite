@@ -1,4 +1,4 @@
-import { StyleSheet, css } from 'aphrodite';
+import { StyleSheet, css } from 'aphrodite/no-important';
 import { flushToStyleTag } from 'aphrodite/lib/inject';
 import { from as flatten } from 'array-flatten';
 import has from 'has';
